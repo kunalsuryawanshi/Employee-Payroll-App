@@ -172,7 +172,7 @@ error-output {
     color: red;
 }
 
-@media only screen and (max-width: 960px) {
+@media only screen and (max-width: 1150px) {
     .cancelButton {
         margin-left: 0px;
     }
@@ -211,4 +211,3 @@ error-output {
         align-items: flex-start;
     }
 }
-
